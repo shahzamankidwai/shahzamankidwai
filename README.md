@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shahzaman
 
-<!--
-**nshahzaman84-boop/nshahzaman84-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on core systems, data structures, and backend engineering.
 
-Here are some ideas to get you started:
+### Current Focus
+- 🧱 **Data Structures & Algorithms:** Mastering foundational arrays, pointer manipulation, and asymptotic efficiency in C++.
+- 🛠️ **Engineering Practices:** Clean Git workflows, modular directory structures, and zero-binary version control.
+- 🎯 **Next Milestone:** Implementing algorithmic logic into practical CLI tools and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Foundations
+- **Languages:** C++ (Foundations & DSA)
+- **Tools & Workflow:** Git, GitHub, VS Code, Linux CLI
+
+### Connect
+- **LinkedIn:** [Shahzaman Kidwai](https://www.linkedin.com/in/shahzaman-kidwai-973204311)
